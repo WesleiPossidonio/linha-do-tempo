@@ -53,14 +53,14 @@ const timelineDataDrums = [
   },
   {
     title: "...",
-    description: "Amorr, tem mais coisa nessa linha do tempo que temos e vou fazer a parte dois rsrs. Mas amor, talvez vc estja cansada de palavras e palavras, mas saíba que, quando eu acordo todos os dias eu lembro que tenho uma baixinha para tirar um sorriso e irritar, rsrs lembro que tenho que creser o mais rápido possivel papar poder busca-la pra mim, as vezes bate umas inseguranças, porque a minha cabeça fica: 'elá é perfeita de mais, será que eu mereço iso mesmo`, 'não tenho nada, porque ela me escolheu'. Me perdoe se eu aji de uma forma que vc não esperava Mais sabia amor, as minhas atitudes vão deminstrar que eu quero vc para minha vida toda, pois é isso que eu quero.",
+    description: "Amorr, tem mais coisa nessa linha do tempo que temos e vou fazer a parte dois rsrs. Mas amor, talvez vc estja cansada de palavras e palavras, mas saíba que, quando eu acordo todos os dias eu lembro que tenho uma baixinha para tirar um sorriso e irritar, rsrs lembro que tenho que creser o mais rápido possivel papar poder busca-la pra mim, as vezes bate umas inseguranças, porque a minha cabeça fica: 'elá é perfeita de mais, será que eu mereço isso mesmo`, 'não tenho nada, porque ela me escolheu'. Me perdoe se eu agi de uma forma que vc não esperava Mais sabia amor, as minhas atitudes vão deminstrar que eu quero vc para minha vida toda, pois é isso que eu quero.",
     icon: <Users size={20} />,
     align: "left",
   },
 
   {
     title: "Futuro...",
-    description: "Como assim futuro? Amor, eu quero casar com vc, eu quero chegar do trabalho com a mente cansada e com o seu abraço sair tudo sabe, quero dar um abraç em nossa filha e dizer: 'filhaaa papai chegou' e olhar tudo em nossa volta e tudo que conquistamos juntos e dizer: 'Amor conseguimos!!!' Esse é o meu maior sonho e eu vou lutar por isso, debaixo da graças de Deus!!! e digo e sempe vou dizer: Amor eu te amo, e te amo muitooo, mesmo vacilando em algumas atitudes que hj estar doendo pq eu quero, mas saiba amor, eu te amo e eu vou agir quando eu devo agir e vc sabe disso minha princesa. Amo vc Amor!",
+    description: "Como assim futuro? Amor, eu quero casar com vc, eu quero chegar do trabalho com a mente cansada e com o seu abraço sair tudo sabe, quero dar um abraço em nossa filha e dizer: 'filhaaa papai chegou' e olhar tudo em nossa volta e tudo que conquistamos juntos e dizer: 'Amor conseguimos!!!' Esse é o meu maior sonho e eu vou lutar por isso, debaixo da graças de Deus!!! e digo e sempe vou dizer: Amor eu te amo, e te amo muitooo, mesmo vacilando em algumas atitudes que hj estar doendo pq eu quero, mas saiba amor, eu te amo e eu vou agir quando eu devo agir e vc sabe disso minha princesa. Amo vc Amor!",
     icon: <Users size={20} />,
     align: "right",
   },
